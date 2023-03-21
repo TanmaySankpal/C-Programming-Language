@@ -1,8 +1,0 @@
-Important Links
-
-https://youtu.be/03DAsDRmtvA
-https://linuxhint.com/install-tesseract-windows/
-https://youtube.com/playlist?list=PLkmvobsnE0GHMmTF7GTzJnCISue1L9fJn
-https://youtu.be/Z9TnNLAwpso
-https://eddiehexorz.com/opencv-tesseract-ocr-setup-for-c-in-visual-studio/
-https://www.technical-recipes.com/2021/getting-started-with-tesseract-optical-character-recognition-ocr-library-in-visual-studio/
